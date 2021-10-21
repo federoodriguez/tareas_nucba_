@@ -1,0 +1,37 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    mix-blend-mode:0px;
+}
+h1{
+    background-color:lightcoral;
+    color:whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+
+.datosp{
+    color:darkcyan;
+    font-size: 25px;
+}
+
+.seccion{
+    color: forestgreen;
+    font-size: 25px;
+}
+
+
+
+h3{
+    color: darkorchid;
+    font-size: 25px;
+}
+
+body {
+    background-image: linear-gradient(45deg,lightblue,rgba(161, 219, 197, 0.904));
+}
+
+.remove-bg {
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
